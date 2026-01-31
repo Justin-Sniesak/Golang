@@ -20,7 +20,8 @@ The repository is organized to provide maximum transparency between code, execut
 ├── Tooling 
 │   └── Dual-purpose CLI tools implementing closures, higher-order functions, multiple return values, pointers, structs, deferred execution, and file logging.
 ├── OPS_LOG.md
-├── README.md
+├── LICENSE.md
+└── README.md
 ```
 
 ---
